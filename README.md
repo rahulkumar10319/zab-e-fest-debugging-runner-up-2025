@@ -6,7 +6,8 @@ I am proud to share that I secured **Runner-Up** position in the Debugging Compe
 
 This achievement reflects my interest in programming, debugging, and problem-solving.
 
-![ZAB-E-FEST 2025 Debugging Competition Runner-Up Certificate](ZAB-E-FEST-2025-Debugging-Runner-Up.pdf.jpg)
+![ZAB-E-FEST 2025 Debugging Competition Runner-Up Certificate](ZAB-E-FEST-2025-Debugging-Runner-Up.pdf.jpg.jpeg
+)
 ### 📜 Certificate Details
 
 - **Achievement:** Runner-Up
